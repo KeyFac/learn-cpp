@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "§3 控制结构.md",
+                "file": "口播/§3 控制结构 口播稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "§3 控制结构"
+              "title": "§3 控制结构 口播稿"
             }
           }
         ]
@@ -183,20 +183,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "aa5d0b3364251dbe",
+  "active": "6bf5ecd84757d92c",
   "lastOpenFiles": [
+    "口播",
+    "§3 控制结构.md",
+    "§3.1 选择结构 口播稿.md.tmp.30184.42f55c9ee1df",
+    "sed8XKpM7",
+    "口播/§3 控制结构 口播稿.md",
+    "§3.1 选择结构 口播稿.md.tmp.30184.c6d31a78b78f",
     "§2 简单程序.md",
     "code/2.1hw.exe",
-    "§3 控制结构.md",
     "sedNSIDnF",
     "§3 控制结构.md.tmp.87540.ebdbbc884889",
     "§3 控制结构.md.tmp.87540.15d9d002d871",
     "§3 控制结构.md.tmp.55788.b48efda3e755",
     "§3 控制结构.md.tmp.80096.2795cd4290e7",
     "sedf8ejVk",
-    "ArcWUwG4",
-    "sedx6q1Ob",
-    "sedHGFSBY",
     "§1 基础.md",
     "§1.2 环境准备.md",
     "欢迎.md"
