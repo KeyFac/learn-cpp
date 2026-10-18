@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -183,10 +185,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "aa5d0b3364251dbe",
+  "active": "6bf5ecd84757d92c",
   "lastOpenFiles": [
     "§3 控制结构.md",
     "§4 调试程序.md",
+    "code/20260816temp_1444.exe",
+    "code/20260816temp_1444.c",
+    "口播/§4 调试程序 口播稿.md",
+    "口播/§4 调试程序 口播稿.md.tmp.49064.31c89ff99337",
     "§4 调试程序.md.tmp.52328.065c55d65d69",
     "口播/§3.2 循环结构 口播稿.md",
     "code/3.2.c",
@@ -196,10 +202,7 @@
     "code/3.1.1.cpp",
     "口播",
     "§3.1 选择结构 口播稿.md.tmp.30184.42f55c9ee1df",
-    "sed8XKpM7",
-    "§3.1 选择结构 口播稿.md.tmp.30184.c6d31a78b78f",
     "§2 简单程序.md",
-    "code/2.1hw.exe",
     "§1 基础.md",
     "§1.2 环境准备.md",
     "欢迎.md"
